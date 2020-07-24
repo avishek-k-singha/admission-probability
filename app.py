@@ -54,4 +54,4 @@ if data[0]>=90:
 elif data[0]>=70 and data[0]<90 :
 	st.write('You have a moderate chance of admission')
 else:
-	st.write("Sorry, You don't have any chance admission")
+	st.write("Sorry, You don't have any of chance admission")
